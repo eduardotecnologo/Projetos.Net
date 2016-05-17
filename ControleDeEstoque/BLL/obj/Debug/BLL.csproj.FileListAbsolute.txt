@@ -1,0 +1,9 @@
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\BLL\bin\Debug\BLL.dll
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\BLL\bin\Debug\BLL.pdb
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\BLL\bin\Debug\DAL.dll
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\BLL\bin\Debug\Modelo.dll
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\BLL\bin\Debug\DAL.pdb
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\BLL\bin\Debug\Modelo.pdb
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\BLL\obj\Debug\BLL.dll
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\BLL\obj\Debug\BLL.pdb

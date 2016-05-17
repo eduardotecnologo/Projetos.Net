@@ -1,0 +1,9 @@
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\TrocaDeDados\TrocaDeValores\bin\Debug\TrocaDeValores.exe.config
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\TrocaDeDados\TrocaDeValores\bin\Debug\TrocaDeValores.exe
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\TrocaDeDados\TrocaDeValores\bin\Debug\TrocaDeValores.pdb
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\TrocaDeDados\TrocaDeValores\obj\Debug\TrocaDeValores.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\TrocaDeDados\TrocaDeValores\obj\Debug\TrocaDeValores.frmTrocaDeValores.resources
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\TrocaDeDados\TrocaDeValores\obj\Debug\TrocaDeValores.Properties.Resources.resources
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\TrocaDeDados\TrocaDeValores\obj\Debug\TrocaDeValores.csproj.GenerateResource.Cache
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\TrocaDeDados\TrocaDeValores\obj\Debug\TrocaDeValores.exe
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\TrocaDeDados\TrocaDeValores\obj\Debug\TrocaDeValores.pdb

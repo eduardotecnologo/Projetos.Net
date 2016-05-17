@@ -1,0 +1,5 @@
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache

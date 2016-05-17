@@ -1,0 +1,7 @@
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\DAL\bin\Debug\DAL.dll
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\DAL\bin\Debug\DAL.pdb
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\DAL\bin\Debug\Modelo.dll
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\DAL\bin\Debug\Modelo.pdb
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\DAL\obj\Debug\DAL.dll
+C:\Users\eduar\Dropbox\CTK\SoftwaresCTK\C#\ControleDeEstoque\DAL\obj\Debug\DAL.pdb
