@@ -1,0 +1,11 @@
+Z:\Documents\Developer\Projetos.Net\ERP\ERP_Projeto01\bin\Debug\ERP_Projeto01.exe.config
+Z:\Documents\Developer\Projetos.Net\ERP\ERP_Projeto01\bin\Debug\ERP_Projeto01.exe
+Z:\Documents\Developer\Projetos.Net\ERP\ERP_Projeto01\bin\Debug\ERP_Projeto01.pdb
+Z:\Documents\Developer\Projetos.Net\ERP\ERP_Projeto01\bin\Debug\ERP_Projeto01.xml
+Z:\Documents\Developer\Projetos.Net\ERP\ERP_Projeto01\obj\Debug\ERP_Projeto01.vbprojResolveAssemblyReference.cache
+Z:\Documents\Developer\Projetos.Net\ERP\ERP_Projeto01\obj\Debug\ERP_Projeto01.Form1.resources
+Z:\Documents\Developer\Projetos.Net\ERP\ERP_Projeto01\obj\Debug\ERP_Projeto01.Resources.resources
+Z:\Documents\Developer\Projetos.Net\ERP\ERP_Projeto01\obj\Debug\ERP_Projeto01.vbproj.GenerateResource.Cache
+Z:\Documents\Developer\Projetos.Net\ERP\ERP_Projeto01\obj\Debug\ERP_Projeto01.exe
+Z:\Documents\Developer\Projetos.Net\ERP\ERP_Projeto01\obj\Debug\ERP_Projeto01.xml
+Z:\Documents\Developer\Projetos.Net\ERP\ERP_Projeto01\obj\Debug\ERP_Projeto01.pdb
