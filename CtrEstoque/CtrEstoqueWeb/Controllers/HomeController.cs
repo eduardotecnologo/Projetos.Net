@@ -18,4 +18,5 @@ namespace CtrEstoqueWeb.Controllers
             return View();
         }
 
+    }
 }
