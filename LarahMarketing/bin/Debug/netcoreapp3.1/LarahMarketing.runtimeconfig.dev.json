@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/edudeveloper/.dotnet/store/|arch|/|tfm|",
+      "/Users/edudeveloper/.nuget/packages"
+    ]
+  }
+}
