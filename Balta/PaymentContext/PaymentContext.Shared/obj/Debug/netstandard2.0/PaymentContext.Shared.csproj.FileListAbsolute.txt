@@ -1,0 +1,9 @@
+/Users/edudeveloper/Documents/Git/Projetos.Net/Balta/PaymentContext/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.deps.json
+/Users/edudeveloper/Documents/Git/Projetos.Net/Balta/PaymentContext/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.dll
+/Users/edudeveloper/Documents/Git/Projetos.Net/Balta/PaymentContext/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.pdb
+/Users/edudeveloper/Documents/Git/Projetos.Net/Balta/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.csprojAssemblyReference.cache
+/Users/edudeveloper/Documents/Git/Projetos.Net/Balta/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.AssemblyInfoInputs.cache
+/Users/edudeveloper/Documents/Git/Projetos.Net/Balta/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.AssemblyInfo.cs
+/Users/edudeveloper/Documents/Git/Projetos.Net/Balta/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.csproj.CoreCompileInputs.cache
+/Users/edudeveloper/Documents/Git/Projetos.Net/Balta/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.dll
+/Users/edudeveloper/Documents/Git/Projetos.Net/Balta/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.pdb
