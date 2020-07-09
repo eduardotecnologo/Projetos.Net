@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/edudeveloper/Documents/Git/Projetos.Net/Balta/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {}
+  },
+  "projects": {
+    "/Users/edudeveloper/Documents/Git/Projetos.Net/Balta/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/edudeveloper/Documents/Git/Projetos.Net/Balta/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
+        "projectName": "PaymentContext.Shared",
+        "projectPath": "/Users/edudeveloper/Documents/Git/Projetos.Net/Balta/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
+        "packagesPath": "/Users/edudeveloper/.nuget/packages/",
+        "outputPath": "/Users/edudeveloper/Documents/Git/Projetos.Net/Balta/PaymentContext/PaymentContext.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/edudeveloper/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

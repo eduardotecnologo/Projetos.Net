@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BWN/xMnreATmBwHjE/BEPNupX0RWzHJXaVQL7nRBpWmEEWV9juUPh0tQS984q59QE6884iHMqzHQuXdSEQx5kA==",
+  "success": true,
+  "projectFilePath": "/Users/edudeveloper/Documents/Git/Projetos.Net/Balta/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
+  "expectedPackageFiles": [
+    "/Users/edudeveloper/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/edudeveloper/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
