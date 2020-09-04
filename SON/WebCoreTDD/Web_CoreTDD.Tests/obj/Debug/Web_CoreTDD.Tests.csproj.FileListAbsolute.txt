@@ -1,0 +1,14 @@
+C:\Users\eduar\Documents\GIT\Projetos.Net\SON\WebCoreTDD\Web_CoreTDD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\eduar\Documents\GIT\Projetos.Net\SON\WebCoreTDD\Web_CoreTDD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\eduar\Documents\GIT\Projetos.Net\SON\WebCoreTDD\Web_CoreTDD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\eduar\Documents\GIT\Projetos.Net\SON\WebCoreTDD\Web_CoreTDD.Tests\bin\Debug\Web_CoreTDD.Tests.dll
+C:\Users\eduar\Documents\GIT\Projetos.Net\SON\WebCoreTDD\Web_CoreTDD.Tests\bin\Debug\Web_CoreTDD.Tests.pdb
+C:\Users\eduar\Documents\GIT\Projetos.Net\SON\WebCoreTDD\Web_CoreTDD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\eduar\Documents\GIT\Projetos.Net\SON\WebCoreTDD\Web_CoreTDD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\eduar\Documents\GIT\Projetos.Net\SON\WebCoreTDD\Web_CoreTDD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\eduar\Documents\GIT\Projetos.Net\SON\WebCoreTDD\Web_CoreTDD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\eduar\Documents\GIT\Projetos.Net\SON\WebCoreTDD\Web_CoreTDD.Tests\obj\Debug\Web_CoreTDD.Tests.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\GIT\Projetos.Net\SON\WebCoreTDD\Web_CoreTDD.Tests\obj\Debug\Web_CoreTDD.Tests.csproj.CopyComplete
+C:\Users\eduar\Documents\GIT\Projetos.Net\SON\WebCoreTDD\Web_CoreTDD.Tests\obj\Debug\Web_CoreTDD.Tests.dll
+C:\Users\eduar\Documents\GIT\Projetos.Net\SON\WebCoreTDD\Web_CoreTDD.Tests\obj\Debug\Web_CoreTDD.Tests.pdb
+C:\Users\eduar\Documents\GIT\Projetos.Net\SON\WebCoreTDD\Web_CoreTDD.Tests\obj\Debug\Web_CoreTDD.Tests.csprojAssemblyReference.cache

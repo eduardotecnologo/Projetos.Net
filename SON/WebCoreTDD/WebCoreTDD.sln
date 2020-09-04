@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCoreTDD", "WebCoreTDD\WebCoreTDD.csproj", "{7B653A1A-6975-45F8-A6C5-A6DB29867E33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_CoreTDD.Tests", "Web_CoreTDD.Tests\Web_CoreTDD.Tests.csproj", "{1065852A-7FD5-45C6-B333-786B93192739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B653A1A-6975-45F8-A6C5-A6DB29867E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B653A1A-6975-45F8-A6C5-A6DB29867E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B653A1A-6975-45F8-A6C5-A6DB29867E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B653A1A-6975-45F8-A6C5-A6DB29867E33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1065852A-7FD5-45C6-B333-786B93192739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1065852A-7FD5-45C6-B333-786B93192739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1065852A-7FD5-45C6-B333-786B93192739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1065852A-7FD5-45C6-B333-786B93192739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D425797-F781-4653-898F-A8BFD69B3204}
+	EndGlobalSection
+EndGlobal
