@@ -14392,6 +14392,11 @@
   "RootNamespace": "lyssamarket",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\eduar\\Documents\\GIT\\Projetos.Net\\lyssamarket\\Views\\Shared\\_LayoutAdmin.cshtml",
+      "TargetPath": "Views\\Shared\\_LayoutAdmin.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\eduar\\Documents\\GIT\\Projetos.Net\\lyssamarket\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -14409,6 +14414,11 @@
     {
       "FilePath": "c:\\Users\\eduar\\Documents\\GIT\\Projetos.Net\\lyssamarket\\Views\\Shared\\_LoginPartial.cshtml",
       "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\eduar\\Documents\\GIT\\Projetos.Net\\lyssamarket\\Views\\Management\\Index.cshtml",
+      "TargetPath": "Views\\Management\\Index.cshtml",
       "FileKind": "mvc"
     },
     {

@@ -13,4 +13,7 @@ $ dotnet ef database update
     Build started...
     Build succeeded.
     Done.
-// 
+    
+// Rodando aplicação
+$ dotnet watch run
+
