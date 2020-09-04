@@ -75,3 +75,5 @@ C:\Users\eduar\Documents\GIT\Projetos.Net\lyssamarket\obj\Debug\netcoreapp3.1\ly
 C:\Users\eduar\Documents\GIT\Projetos.Net\lyssamarket\obj\Debug\netcoreapp3.1\lyssamarket.genruntimeconfig.cache
 C:\Users\eduar\Documents\GIT\Projetos.Net\lyssamarket\bin\Debug\netcoreapp3.1\Npgsql.dll
 C:\Users\eduar\Documents\GIT\Projetos.Net\lyssamarket\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\eduar\Documents\GIT\Projetos.Net\lyssamarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\eduar\Documents\GIT\Projetos.Net\lyssamarket\obj\Debug\netcoreapp3.1\Razor\Views\Management\Index.cshtml.g.cs

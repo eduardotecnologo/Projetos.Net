@@ -13,4 +13,13 @@ $ dotnet ef database update
     Build started...
     Build succeeded.
     Done.
-// 
+
+// Rodando aplicação
+$ dotnet watch run
+
+DTO  - Data Transfer Object
+$ dotnet ef migrations add UpdateCategory
+Build started...
+Build succeeded.
+Done. To undo this action, use 'ef migrations remove'
+
