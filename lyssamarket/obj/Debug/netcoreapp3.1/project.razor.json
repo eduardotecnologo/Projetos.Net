@@ -14427,6 +14427,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\eduar\\Documents\\GIT\\Projetos.Net\\lyssamarket\\Views\\Management\\Categorys.cshtml",
+      "TargetPath": "Views\\Management\\Categorys.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\eduar\\Documents\\GIT\\Projetos.Net\\lyssamarket\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -14434,6 +14439,11 @@
     {
       "FilePath": "c:\\Users\\eduar\\Documents\\GIT\\Projetos.Net\\lyssamarket\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\eduar\\Documents\\GIT\\Projetos.Net\\lyssamarket\\Views\\Management\\NewCategory.cshtml",
+      "TargetPath": "Views\\Management\\NewCategory.cshtml",
       "FileKind": "mvc"
     },
     {

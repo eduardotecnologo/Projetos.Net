@@ -1,0 +1,16 @@
+@model lyssamarket.DTO.CategoryDTO
+
+@{
+    Layout = "_LayoutAdmin";
+}
+
+
+<h2>Nova Categoria</h2>
+<hr>
+<form class="form-horizontal" asp-controller="" asp-action="Save" method="POST"> 
+    <input type="hidden" asp-for="Id" value="0">   
+    <label asp-for="Name">Nome:</label>
+    <input type="text" asp-for="Name" class="form-control" placeholser="Nome da Categoria"><br>
+    <span asp-validation-for="Name"></span>
+    <button class="btn btn-success">Cadastrar</button>
+</form>

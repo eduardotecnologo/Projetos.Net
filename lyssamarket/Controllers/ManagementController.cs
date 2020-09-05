@@ -8,5 +8,12 @@ namespace lyssamarket.Controllers
         public IActionResult Index(){
             return View();
         }
+        public IActionResult Categorys(){
+            return View();
+        }
+        public IActionResult NewCategory(){
+            return View();
+            
+        }
     }
 }
