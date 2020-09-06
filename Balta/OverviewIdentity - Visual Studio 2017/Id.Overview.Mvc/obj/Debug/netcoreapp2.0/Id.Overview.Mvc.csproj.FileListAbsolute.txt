@@ -1,0 +1,24 @@
+C:\dev\OverviewIdentity\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Id.Overview.Mvc.deps.json
+C:\dev\OverviewIdentity\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Id.Overview.Mvc.runtimeconfig.json
+C:\dev\OverviewIdentity\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Id.Overview.Mvc.runtimeconfig.dev.json
+C:\dev\OverviewIdentity\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Id.Overview.Mvc.dll
+C:\dev\OverviewIdentity\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Id.Overview.Mvc.pdb
+C:\dev\OverviewIdentity\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.csprojResolveAssemblyReference.cache
+C:\dev\OverviewIdentity\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.csproj.CoreCompileInputs.cache
+C:\dev\OverviewIdentity\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\dev\OverviewIdentity\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.AssemblyInfoInputs.cache
+C:\dev\OverviewIdentity\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.AssemblyInfo.cs
+C:\dev\OverviewIdentity\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.dll
+C:\dev\OverviewIdentity\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.pdb
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\OverviewIdentity - Visual Studio 2017\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Id.Overview.Mvc.deps.json
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\OverviewIdentity - Visual Studio 2017\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Id.Overview.Mvc.runtimeconfig.json
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\OverviewIdentity - Visual Studio 2017\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Id.Overview.Mvc.runtimeconfig.dev.json
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\OverviewIdentity - Visual Studio 2017\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Id.Overview.Mvc.dll
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\OverviewIdentity - Visual Studio 2017\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Id.Overview.Mvc.pdb
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\OverviewIdentity - Visual Studio 2017\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.csprojAssemblyReference.cache
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\OverviewIdentity - Visual Studio 2017\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\OverviewIdentity - Visual Studio 2017\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\OverviewIdentity - Visual Studio 2017\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\OverviewIdentity - Visual Studio 2017\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.AssemblyInfo.cs
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\OverviewIdentity - Visual Studio 2017\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.dll
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\OverviewIdentity - Visual Studio 2017\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.pdb
