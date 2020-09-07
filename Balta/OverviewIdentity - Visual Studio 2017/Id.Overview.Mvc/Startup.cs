@@ -50,6 +50,14 @@ namespace Id.Overview.Mvc
                     options.SignIn.RequireConfirmedEmail = false;  //Deve confirma um email (por default false)
                     options.SignIn.RequireConfirmedEmail = false;  //Para confirmar o login por número de telefone
 
+                    //Token
+                    // options.Tokens.AuthenticatorTokenProvider     //Define o change email token
+                    // options.Tokens.ChangePhoneNumberTokenProvider //Token para alteração de número de tel do user
+                    // options.Tokens.ChangeEmailTokenProvider       //Token para confirmação de email configurado pelo user
+                    // options.Tokens.PasswordResetTokenProvider //Token para alterar senha do user
+
+
+
 
                 })
                 .AddEntityFrameworkStores<ApplicationDbContext>()
