@@ -35,6 +35,17 @@ namespace Id.Overview.Mvc
                 {
                     //Lockout
                     options.Lockout.AllowedForNewUsers = true;
+                    options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
+                    options.Lockout.MaxFailedAccessAttempts = 5; // Número total de tentativas de acesso
+
+                    //Password
+                    options.Password.RequireDigit = true;//Requesr ao menos 1 número na senha
+                    options.Password.RequiredLength = 6;//Tamanho mínimo de caracteres(aceitável 6 é o default)
+                    options.Password.RequiredUniqueChars = 1;//Requer o mínimo decaracteres diferentes da senha(1 é o defualt)
+                    options.Password.RequireLowercase = true;//Requer que a senha tenha ao menos 1 letra minuscula
+                    options.Password.RequireUppercase = true;//Requer que a senha tenha ao menos 1 letra maiuscula
+                    options.Password.RequireNonAlphanumeric = true;//Requer que a senha tenha ao menos 1 caractere especial
+
 
                 })
                 .AddEntityFrameworkStores<ApplicationDbContext>()
