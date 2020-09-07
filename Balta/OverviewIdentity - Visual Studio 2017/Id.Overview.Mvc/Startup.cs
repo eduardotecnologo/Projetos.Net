@@ -54,14 +54,40 @@ namespace Id.Overview.Mvc
                     // options.Tokens.AuthenticatorTokenProvider     //Define o change email token
                     // options.Tokens.ChangePhoneNumberTokenProvider //Token para alteração de número de tel do user
                     // options.Tokens.ChangeEmailTokenProvider       //Token para confirmação de email configurado pelo user
-                    // options.Tokens.PasswordResetTokenProvider //Token para alterar senha do user
+                    // options.Tokens.PasswordResetTokenProvider     //Token para alterar senha do user
 
-
-
-
+                    //User
+                    options.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ-._@=#$&";
+                    options.User.RequireUniqueEmail = false;
                 })
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
+
+            // Cookie
+            services.ConfigureApplicationCookie(options =>
+            {
+
+                options.AccessDeniedPath = "/Account/AccessDenied";
+                //options.ClaimsIssuer = "";
+                //options.Cookie.Domain = "";
+                //options.Cookie.Expiration = "";
+                options.Cookie.HttpOnly = true;
+                options.Cookie.Name = ".AspNetCore.Cookies";
+                //options.Cookie.Path = "";
+                options.Cookie.SameSite = Microsoft.AspNetCore.Http.SameSiteMode.Lax;
+                options.Cookie.SecurePolicy = Microsoft.AspNetCore.Http.CookieSecurePolicy.SameAsRequest;
+                //options.CookieManager = 
+                //options.DataProtectionProvider
+                //options.Events = 
+                //options.EventsType = 
+                options.ExpireTimeSpan = TimeSpan.FromDays(14);
+                options.LoginPath = "/Account/Login";
+                options.LogoutPath = "/Account/Logout";
+                options.ReturnUrlParameter = "ReturnUrl";
+                //options.SessionStore = 
+                options.SlidingExpiration = true;
+                //options.TicketDataFormat = 
+            });
 
             // Add application services.
             services.AddTransient<IEmailSender, EmailSender>();
