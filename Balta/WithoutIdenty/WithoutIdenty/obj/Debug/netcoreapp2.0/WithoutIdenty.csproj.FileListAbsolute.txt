@@ -1,0 +1,11 @@
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\WithoutIdenty\WithoutIdenty\bin\Debug\netcoreapp2.0\WithoutIdenty.deps.json
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\WithoutIdenty\WithoutIdenty\bin\Debug\netcoreapp2.0\WithoutIdenty.runtimeconfig.json
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\WithoutIdenty\WithoutIdenty\bin\Debug\netcoreapp2.0\WithoutIdenty.runtimeconfig.dev.json
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\WithoutIdenty\WithoutIdenty\bin\Debug\netcoreapp2.0\WithoutIdenty.dll
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\WithoutIdenty\WithoutIdenty\bin\Debug\netcoreapp2.0\WithoutIdenty.pdb
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\WithoutIdenty\WithoutIdenty\obj\Debug\netcoreapp2.0\WithoutIdenty.csprojAssemblyReference.cache
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\WithoutIdenty\WithoutIdenty\obj\Debug\netcoreapp2.0\WithoutIdenty.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\WithoutIdenty\WithoutIdenty\obj\Debug\netcoreapp2.0\WithoutIdenty.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\WithoutIdenty\WithoutIdenty\obj\Debug\netcoreapp2.0\WithoutIdenty.AssemblyInfo.cs
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\WithoutIdenty\WithoutIdenty\obj\Debug\netcoreapp2.0\WithoutIdenty.dll
+C:\Users\eduar\Documents\GIT\Projetos.Net\Balta\WithoutIdenty\WithoutIdenty\obj\Debug\netcoreapp2.0\WithoutIdenty.pdb
